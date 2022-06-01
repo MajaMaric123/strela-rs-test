@@ -42,6 +42,7 @@ public class Project2 {
         } else {
             System.out.println("Fail");
         }
+        driver.close();
     }
 }
 
